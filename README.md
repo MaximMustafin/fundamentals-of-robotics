@@ -15,3 +15,10 @@ Tasks:
 1) ...
 2) ...
 3) ...
+
+# Homework 3
+
+Tasks:
+1) For HSV color model build a circle with Hue & Saturation channels, and an additional bar with adjusting tag for Value channel
+2) Make a possibility to choose a point in circle by using a mouse button
+3) Invert the selected color point to RGB, LAB and YCrCb colors, and output the computed values in a window
