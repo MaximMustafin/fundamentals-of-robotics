@@ -39,6 +39,3 @@ channel
 
 2) Make a possibility to choose a point in circle by using a mouse button
 3) Invert the selected color point to RGB, LAB and YCrCb colors, and output the computed values in a window
-
-2) Make a possibility to choose a point in circle by using a mouse button
-3) Invert the selected color point to RGB, LAB and YCrCb colors, and output the computed values in a window
