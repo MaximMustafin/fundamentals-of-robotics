@@ -7,7 +7,7 @@
 Tasks:
 1) Divide an image in patches and saves them to the disk as a patch with series names
 
-![chrome_zqbM4EhIx5.png](./chrome_zqbM4EhIx5.png)
+![chrome_zqbM4EhIx5.png](./Images/chrome_zqbM4EhIx5.png)
 
 2) Warp an image with a mouse clicking and rotate it with a perspective transformation
 
