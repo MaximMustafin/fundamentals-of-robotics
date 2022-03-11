@@ -38,4 +38,14 @@ channel
 ![chrome_SXW0E8pMT6.png](./Images/Homework3-1.png)
 
 2) Make a possibility to choose a point in circle by using a mouse button
+
 3) Invert the selected color point to RGB, LAB and YCrCb colors, and output the computed values in a window
+
+# Homework 4 
+
+Tasks:
+1) Corrupt an image with salt-and-pepper noise (using adjustable proportions for salt-and-pepper noise, e.g. from 10 to 90%)
+
+2) Filter the image with Averaging, Median, Gaussian blur, and Bilateral Filtering using OpenCV, and compare the result images 
+
+![image.png](./Images/Homework4-1.png)
