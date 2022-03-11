@@ -27,9 +27,9 @@ to be connected with lines in order to indicate the route along the streets to r
 
 ![chrome_7H7bnBAmLR.png](./Images/Homework2-2.png)
 
-3) Annotate a video fragment with text and save the annotated video to a file
+&#10003; 3) Annotate a video fragment with text and save the annotated video to a file
 
-# Homework 3
+# Homework 3 &#10003;
 
 Tasks:
 1) For HSV color model, build a circle with Hue & Saturation channels, and an additional bar with adjusting slider for Value
