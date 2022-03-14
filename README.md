@@ -41,7 +41,7 @@ channel
 
 3) Invert the selected color point to RGB, LAB and YCrCb colors, and output the computed values in a window
 
-# Homework 4 
+# Homework 4 &#10003;
 
 Tasks:
 1) Corrupt an image with salt-and-pepper noise (using adjustable proportions for salt-and-pepper noise, e.g. from 10 to 90%)
