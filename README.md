@@ -55,9 +55,17 @@ Tasks:
 
 Tasks:
 1) Corrupt an image with a noise (using an adjusting slider to change the noise propotions, e.g. from 10 to 90%)
+
 2) Filter the image with Frequency Filtering (Mean Filter, Gaussian, etc.) using Numpy and OpenCV, and compare the result
 images with relevant convolution filters
+
 3) Find the edges with Frequency Filters (Laplacian, Sobel X and Y, Sharr X and Y) using Numpy / OpenCV, and compare the
 result images with the relevant convolution filters 
 
 ![image.png](./Images/Homework5-1.png)
+
+# Homework 6
+...
+
+# Homework 7
+...
