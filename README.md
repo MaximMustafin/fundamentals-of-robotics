@@ -18,6 +18,7 @@ Tasks:
 # Homework 2 
 
 Tasks:
+
 &#10003; 1) Use the city map image to annotate it by clicking on the starting point of the route, intermediate points
 to be connected with lines in order to indicate the route along the streets to reach the end point 
 
