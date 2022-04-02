@@ -15,20 +15,20 @@ Tasks:
 
 3) Record a video from a webcam with OpenCV and save it to the disk with mp4 compression
 
-# Homework 2 
+# Homework 2 &#10003;
 
 Tasks:
 
-&#10003; 1) Use the city map image to annotate it by clicking on the starting point of the route, intermediate points
+1) Use the city map image to annotate it by clicking on the starting point of the route, intermediate points
 to be connected with lines in order to indicate the route along the streets to reach the end point 
 
 ![chrome_9EGRHwyfWo.png](./Images/Homework2-1.png)
 
-2)  Create a bird's eye view video from a fixed camera using perspective transformation and save it to a file
+2) Create a bird's eye view video from a fixed camera using perspective transformation and save it to a file
 
 ![chrome_7H7bnBAmLR.png](./Images/Homework2-2.png)
 
-&#10003; 3) Annotate a video fragment with text and save the annotated video to a file
+3) Annotate a video fragment with text and save the annotated video to a file
 
 # Homework 3 &#10003;
 
