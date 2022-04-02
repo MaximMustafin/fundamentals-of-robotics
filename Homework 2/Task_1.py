@@ -1,3 +1,6 @@
+# Homework 2, Task 1 - Use the city map image to annotate it by clicking on the starting point of the route,
+# intermediate points to be connected with lines in order to indicate the route along the streets to reach the end point
+
 import cv2 as cv
 import math
 
