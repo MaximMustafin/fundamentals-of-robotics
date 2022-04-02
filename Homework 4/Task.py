@@ -1,3 +1,9 @@
+# Homework 4
+# 1) Corrupt an image with salt-and-pepper noise (using adjustable proportions for salt-and-pepper noise, e.g. from 10
+# to 90%)
+# 2) Filter the image with Averaging, Median, Gaussian blur, and Bilateral Filtering using OpenCV, and compare
+# the result images
+
 import numpy as np
 import cv2 as cv
 
@@ -38,11 +44,6 @@ height = int(source_image.shape[0] * scale_percent / 100)
 dim = (width, height)
 
 image = cv.resize(source_image, dim, interpolation=cv.INTER_AREA)
-
-# bilateral_filter = cv.bilateralFilter(src=image, d=9, sigmaColor=75, sigmaSpace=75)
-# cv.imshow('source_image', image)
-# cv.imshow('bilateral', bilateral_filter)
-# cv.waitKey(0)
 
 prob = 0
 
