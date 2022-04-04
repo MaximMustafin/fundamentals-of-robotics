@@ -54,7 +54,7 @@ Tasks:
 # Homework 5
 
 Tasks:
-1) Corrupt an image with a noise (using an adjusting slider to change the noise propotions, e.g. from 10 to 90%)
+1) Corrupt an image with a noise (salt-pepper, etc.) (using an adjusting slider to change the noise propotions, e.g. from 10 to 90%)
 
 2) Filter the image with Frequency Filtering (Mean Filter, Gaussian, etc.) using Numpy and OpenCV, and compare the result
 images with relevant convolution filters
@@ -65,7 +65,11 @@ result images with the relevant convolution filters
 ![image.png](./Images/Homework5-1.png)
 
 # Homework 6
-...
+
+Tasks:
+1) Add cannyEdgeDetection to image which is used with Sobel in Homework 5.
 
 # Homework 7
-...
+
+Tasks:
+1) Take an image that has a closed object (rectangle, ball, smartphone), detect its contours using the findContours commands, and by selecting the contour of the object, enlarge this object using trackbar.
