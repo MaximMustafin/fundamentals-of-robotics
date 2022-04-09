@@ -69,7 +69,7 @@ result images with the relevant convolution filters
 Tasks:
 1) Add cannyEdgeDetection to image which is used with Sobel in Homework 5.
 
-# Homework 7
+# Homework 7 &#10003;
 
 Tasks:
 1) Take an image that has a closed object (rectangle, ball, smartphone), detect its contours using the findContours commands, and by selecting the contour of the object, enlarge this object using trackbar.
