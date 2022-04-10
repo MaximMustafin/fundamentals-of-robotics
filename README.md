@@ -51,7 +51,7 @@ Tasks:
 
 ![image.png](./Images/Homework4-1.png)
 
-# Homework 5
+# Homework 5 &#10003;
 
 Tasks:
 1) Corrupt an image with a noise (salt-pepper, etc.) (using an adjusting slider to change the noise propotions, e.g. from 10 to 90%)
@@ -64,7 +64,7 @@ result images with the relevant convolution filters
 
 ![image.png](./Images/Homework5-1.png)
 
-# Homework 6
+# Homework 6 &#10003;
 
 Tasks:
 1) Add cannyEdgeDetection to image which is used with Sobel in Homework 5.
