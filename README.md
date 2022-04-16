@@ -73,3 +73,20 @@ Tasks:
 
 Tasks:
 1) Take an image that has a closed object (rectangle, ball, smartphone), detect its contours using the findContours commands, and by selecting the contour of the object, enlarge this object using trackbar.
+
+# Homework 8 
+
+Tasks:
+1) Take/print a chessboard and record a dataset with some photos of different positions relatively to a camera (a camera with
+switched off auto-focusing mode); Calibrate the camera using Numpy and OpenCV and store the intrinsic and extrinsic
+parameters.
+
+2) Place a round flat object (e.g. a coin) on the checkerboard, take a photo and use filters and edge detectors (Canny/Sobel,
+blurring, dilatation and erosion) to get the clear object’s boundaries. Estimate the object’s dimensions, and check it by a ruler.
+Compute the distance between the camera plane and the selected object.
+
+3) Place a rectangular flat object (e.g. a card/magnet) on the checkerboard, take a photo and use corner detectors (Shi-Tomasi
+and Harris) to get the clear object’s corners (with SubPixel Accuracy) and estimate the object’s dimensions (compare it with a
+ruler measurements). Compute the distance between the camera plane and the selected object.
+
+![image.png](./Images/Homework8.png)
