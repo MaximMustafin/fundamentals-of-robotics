@@ -74,7 +74,7 @@ Tasks:
 Tasks:
 1) Take an image that has a closed object (rectangle, ball, smartphone), detect its contours using the findContours commands, and by selecting the contour of the object, enlarge this object using trackbar.
 
-# Homework 8 
+# Homework 8 &#10003;
 
 Tasks:
 1) Take/print a chessboard and record a dataset with some photos of different positions relatively to a camera (a camera with
