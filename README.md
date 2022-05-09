@@ -90,3 +90,7 @@ and Harris) to get the clear object’s corners (with SubPixel Accuracy) and est
 ruler measurements). Compute the distance between the camera plane and the selected object.
 
 ![image.png](./Images/Homework8.png)
+
+# Homework 9
+
+https://www.youtube.com/watch?v=7gSWd2hodFU&list=PLMoSUbG1Q_r-JNMQ0zJmv6SnXwgbA8JJp&index=2
