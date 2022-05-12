@@ -91,6 +91,6 @@ ruler measurements). Compute the distance between the camera plane and the selec
 
 ![image.png](./Images/Homework8.png)
 
-# Homework 9
+# Homework 9 &#10003;
 
 https://www.youtube.com/watch?v=7gSWd2hodFU&list=PLMoSUbG1Q_r-JNMQ0zJmv6SnXwgbA8JJp&index=2
