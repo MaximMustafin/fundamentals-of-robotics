@@ -94,3 +94,19 @@ ruler measurements). Compute the distance between the camera plane and the selec
 # Homework 9 &#10003;
 
 https://www.youtube.com/watch?v=7gSWd2hodFU&list=PLMoSUbG1Q_r-JNMQ0zJmv6SnXwgbA8JJp&index=2
+
+# Homework 10
+
+1) Build a stereo pair with a couple of smartphones/webcams (switching off the autofocusing mode), and calibrate it using a
+checkerboard & OpenCV Python. When recording the images, use static poses of the checkerboard (if there is no time
+synchronization between cameras).
+
+2) Place yourself (and other guys) in a scene in front of the stereo pair, and take an image dataset (from left & right cameras).
+
+3) Detect humans using YOLOv5, OpenCV Python and the images from one of the camera.
+
+4) Compute the disparity map of the scene using OpenCV Python.
+
+5) Estimate the distance to the humans in the image using the depth information.
+
+![image.png](./Images/Homework10-1.png)
